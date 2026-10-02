@@ -1,0 +1,13 @@
+{
+  "registros_deduplicados": 666,
+  "conservados_termografia_mamaria": 601,
+  "descartados": 65,
+  "motivos_descarte": {
+    "Título referido a mama animal u otro contexto veterinario": 9,
+    "Sin mención explícita de termografía o imagen térmica/infrarroja": 49,
+    "Sin mención de mama": 7
+  },
+  "criterio": "Mención de termografía/imagen térmica o infrarroja y mama en título, resumen o palabras clave; se apartan títulos veterinarios explícitos.",
+  "puntajes_recalculados_sobre_filtrados": true,
+  "nota": "Cribado textual reproducible; la elegibilidad de cada estudio requiere verificar el texto completo."
+}

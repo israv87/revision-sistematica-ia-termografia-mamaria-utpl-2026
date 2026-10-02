@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 245" role="img" aria-labelledby="title desc">
+  <title id="title">Ruta de los registros</title>
+  <desc id="desc">629 registros de Scopus más 264 de Web of Science dan 893 registros reunidos. Se retiran 227 duplicados. La base final contiene aproximadamente 670 artículos únicos.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102d43"/><stop offset="1" stop-color="#124c54"/></linearGradient>
+    <linearGradient id="final" x2="0" y2="1"><stop stop-color="#39b99a"/><stop offset="1" stop-color="#188d83"/></linearGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#92d6d4"/></marker>
+  </defs>
+  <rect width="960" height="245" rx="22" fill="url(#bg)"/>
+  <text x="28" y="30" fill="#a9dcda" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">RUTA DE LOS REGISTROS</text>
+  <rect x="28" y="53" width="190" height="63" rx="11" fill="#8b482f" stroke="#e8a078" stroke-opacity=".65"/>
+  <text x="45" y="82" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">629</text>
+  <text x="45" y="103" fill="#f5d4c5" font-family="Segoe UI,Arial,sans-serif" font-size="13">Scopus</text>
+  <rect x="28" y="127" width="190" height="63" rx="11" fill="#2b5480" stroke="#9bc5eb" stroke-opacity=".65"/>
+  <text x="45" y="156" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">264</text>
+  <text x="45" y="177" fill="#d8eafa" font-family="Segoe UI,Arial,sans-serif" font-size="13">Web of Science</text>
+  <path d="M218 84 H238 Q252 84 252 98 V121 H282 M218 158 H238 Q252 158 252 144 V121" fill="none" stroke="#92d6d4" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="294" y="69" width="178" height="108" rx="16" fill="#1c6e76" stroke="#72cecb" stroke-opacity=".65"/>
+  <text x="314" y="116" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="700">893</text>
+  <text x="314" y="145" fill="#d3eeee" font-family="Segoe UI,Arial,sans-serif" font-size="14">registros reunidos</text>
+  <path d="M472 123 H516" fill="none" stroke="#92d6d4" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="528" y="69" width="178" height="108" rx="16" fill="#214c60" stroke="#82cad4" stroke-opacity=".6"/>
+  <text x="548" y="114" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">−227</text>
+  <text x="548" y="142" fill="#cde7ed" font-family="Segoe UI,Arial,sans-serif" font-size="14">duplicados retirados</text>
+  <path d="M706 123 H750" fill="none" stroke="#92d6d4" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="762" y="52" width="170" height="140" rx="17" fill="url(#final)" stroke="#b6ffe8" stroke-opacity=".7"/>
+  <text x="782" y="91" fill="#edfff9" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">TOTAL FINAL</text>
+  <text x="782" y="134" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700">≈670</text>
+  <text x="782" y="160" fill="#edfff9" font-family="Segoe UI,Arial,sans-serif" font-size="14">artículos únicos</text>
+  <text x="28" y="224" fill="#99bfc4" font-family="Segoe UI,Arial,sans-serif" font-size="12">El total de esta gráfica está redondeado; el archivo descargable conserva el conteo exacto.</text>
+</svg>
