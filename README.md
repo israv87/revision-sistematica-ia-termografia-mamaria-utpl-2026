@@ -42,6 +42,19 @@ python -m streamlit run brujula_bibliografica/app.py
 
 En Windows, activa el entorno virtual antes de instalar las dependencias, o usa directamente `.venv/Scripts/python.exe`. La página se abre normalmente en `http://localhost:8501`.
 
+## Publicar gratis en Streamlit Community Cloud
+
+El proyecto ya tiene el código y los archivos de datos en este repositorio. En [share.streamlit.io](https://share.streamlit.io/), crea una aplicación desde un repositorio existente con estos valores:
+
+| Campo | Valor |
+| --- | --- |
+| Repositorio | `utpliacloud-sudo/brujula-bibliografica-termografia` |
+| Rama | `main` |
+| Archivo principal | `brujula_bibliografica/app.py` |
+| Python | `3.12` |
+
+La aplicación se despliega desde el repositorio privado y requiere que la cuenta de Streamlit tenga acceso a él. Para compartir la aplicación privada, agrega a la doctora como espectadora desde las opciones de acceso de Streamlit.
+
 ## Publicar en Railway
 
 1. Conecta este repositorio privado de GitHub a un nuevo servicio de Railway.
