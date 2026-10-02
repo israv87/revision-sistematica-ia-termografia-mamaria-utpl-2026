@@ -48,7 +48,7 @@ El proyecto ya tiene el código y los archivos de datos en este repositorio. En 
 
 | Campo | Valor |
 | --- | --- |
-| Repositorio | `utpliacloud-sudo/brujula-bibliografica-termografia` |
+| Repositorio | `utpliacloud-sudo/revision-sistematica-ia-termografia-mamaria` |
 | Rama | `main` |
 | Archivo principal | `brujula_bibliografica/app.py` |
 | Python | `3.12` |
